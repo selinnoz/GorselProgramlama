@@ -1,0 +1,11 @@
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.csproj.AssemblyReference.cache
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.Form1.resources
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.csproj.GenerateResource.cache
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.csproj.CoreCompileInputs.cache
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\bin\Debug\Piano.exe.config
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\bin\Debug\Piano.exe
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\bin\Debug\Piano.pdb
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.exe
+C:\Users\ozsel\Desktop\et\csharp\Piano\Piano\obj\Debug\Piano.pdb

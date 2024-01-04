@@ -1,0 +1,11 @@
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\bin\Debug\GorselProgOdev1.exe.config
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\bin\Debug\GorselProgOdev1.exe
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\bin\Debug\GorselProgOdev1.pdb
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.csproj.AssemblyReference.cache
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.Form1.resources
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.Properties.Resources.resources
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.csproj.GenerateResource.cache
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.csproj.CoreCompileInputs.cache
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.exe
+C:\Users\ozsel\Desktop\et\csharp\GorselProgOdev1\GorselProgOdev1\obj\Debug\GorselProgOdev1.pdb
